@@ -14,7 +14,7 @@ cd cypress
 
 1. **Install dependencies**
    ```bash
-   npm install
+   npm install on filbert-api-assignment folder
    ```
 
 2. **Run Cypress tests in the interactive GUI**
